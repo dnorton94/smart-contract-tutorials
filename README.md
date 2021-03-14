@@ -11,3 +11,8 @@ A fast, secure, and developer-friendly blockchain built to support the next gene
 
 ## [OnFlow](https://github.com/onflow/cadence)
 Cadence, the resource-oriented smart contract programming language 🏃‍♂️
+
+## [Flow JS SDK](https://github.com/onflow)
+Tools for building browser applications on Flow 🌊
+
+

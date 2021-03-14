@@ -15,4 +15,5 @@ Cadence, the resource-oriented smart contract programming language 🏃‍♂️
 ## [Flow JS SDK](https://github.com/onflow)
 Tools for building browser applications on Flow 🌊
 
-
+## [Uniswap V2 SDK](https://github.com/Uniswap/uniswap-v2-sdk)
+🛠 An SDK for building applications on top of Uniswap V2
